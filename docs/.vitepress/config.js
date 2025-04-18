@@ -7,7 +7,7 @@ export default defineConfig({
   description: "New generation Android kernel-level root solution",
   
   head: [
-    ['link', { rel: 'icon', href: '/assets/icons/ksu-next-tab.png' }]
+    ['link', { rel: 'icon', href: 'docs/public/logo.png' }]
   ],
   
   themeConfig: {
