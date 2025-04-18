@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/Ksun/',
   title: "KernelSU Next",
   description: "New generation Android kernel-level root solution",
   
@@ -10,7 +11,6 @@ export default defineConfig({
   ],
   
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     logo: '/assets/icons/ksu-next.png',
     
     nav: [
