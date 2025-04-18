@@ -1,10 +1,10 @@
 {
   "name": "KernelSU_website",
   "version": "1.0.0",
-  "description": "KernelSU official website: https://kernelsu.org",
+  "description": "KernelSU Next official website: https://ksunext.org",
   "main": "index.js",
-  "repository": "https://kernelsu.org",
-  "author": "weishu",
+  "repository": "https://ksunext.org",
+  "author": "Rifsxd",
   "license": "MIT",
   "devDependencies": {
     "vitepress": "^1.6.3",
