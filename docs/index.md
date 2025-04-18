@@ -7,7 +7,7 @@ hero:
   text: New generation Android kernel-level root solution
   tagline: Supporting most Android kernels from 4.4 to 6.6
   image:
-    src: /assets/icons/ksu-next.png
+    src: /docs/public/logo.png
     alt: KernelSU Next
   actions:
     - theme: brand
