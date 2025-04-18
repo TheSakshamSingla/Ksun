@@ -11,7 +11,7 @@ export default defineConfig({
   ],
   
   themeConfig: {
-    logo: '/assets/icons/ksu-next.png',
+    logo: '/docs/public/logo.png',
     
     nav: [
       { text: 'Home', link: '/' },
